@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face{
+	src: url("VarelaRound-Regular.ttf");
+	font-family: vare;
+}
+h1, h4{
+	font-family: vare;
+}
+@font-face{
+	src: url("BalooThambi2-Regular.ttf");
+	font-family: baloom;
+}
+.section1 span{
+	font-family: baloom;
+}
+.section2 p{
+	font-family: baloom;
+}
+.tn p{
+	font-family: baloom;
+}
+.tn h3{
+	font-family: vare;
+}
+.section4{
+	font-family: vare;
+}
+.nav{
+	font-family: vare;
+	color: white;
+}
+.section5 h2{
+	font-family: vare;
+	color: white;
+}
+.them1 h2{
+	font-family: baloom;
+}
+.hinh1, .hinh5{
+	font-family: baloom;
+}
+input, textarea{
+	font-family: baloom;
+}
+.section6 h3{
+	font-family: baloom;
+	text-transform: uppercase;
+	font-size: 15px;
+}
+.dia h4{
+	color: white;
+	font-family: vare;
+}
+.dia p{
+	font-family: baloom;
+	color: white;
+	font-size: 14px;
+}
+.footer h6{
+	font-family: baloom;
+}
